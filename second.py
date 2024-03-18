@@ -1,2 +1,3 @@
 print(45)
-abc="work"
+print(6)
+
